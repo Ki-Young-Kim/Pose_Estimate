@@ -1,0 +1,4 @@
+{
+	"loss": "MSE",
+    "lstm_layers": 2
+}

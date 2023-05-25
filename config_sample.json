@@ -1,0 +1,27 @@
+{
+	"body_data_root_directory": "./AMASS_Datasets/",
+	"use_tkagg": true,
+	"body_models": {
+		"smpl": {
+			"male": "path/to/smpl/npz",
+			"female": "downloaded from https://smpl.is.tue.mpg.de/"
+		},
+		"smplh": {
+			"male": "you should remove chumpy dependence from the pickled files",
+			"female": "see instructions on https://github.com/vchoutas/smplx/blob/master/tools/README.md"
+		},
+		"smplx": {
+			"male": "Then encoding is set to latin1 when loading",
+			"female": "because these are python2 pickle objects",
+			"neutral": "path/to/neutral/smplx"
+		}
+	},
+	"root_directory_suffixes": {
+		"preprocessing": "_preprocessed_batch"
+	
+	},
+	"model_config": {
+		"nsamples": 6,
+		"window_size": 15
+	}
+}

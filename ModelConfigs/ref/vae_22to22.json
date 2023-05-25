@@ -1,0 +1,11 @@
+{
+    "nn_architecture": "VAE",
+    "input_seq_length": 1,
+    "window_size": 1,
+    "encoder_njoints": 22,
+    "resnet_kdiv3": 1,
+    "loss": "R6DNORM+MPJPE",
+
+    "learning_rate": 0.0001,
+    "lr_decay_step_size": 20
+}

@@ -1,0 +1,8 @@
+{
+    "loss": "R6DNORM+MPJVE+MPJPE",
+    "input_velocities": true,
+    "input_global_joint_positions": true,
+    "normalise_global_joint_positions": true,
+    "normalise_global_joint_positions_y": true,
+    "normalise_global_joint_positions_divbystd": true
+}

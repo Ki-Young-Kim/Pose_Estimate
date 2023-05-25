@@ -1,0 +1,5 @@
+{
+    "loss": "R6DNORM+MPJPE",
+    "input_global_joint_positions": true,
+    "normalise_global_joint_positions": true
+}

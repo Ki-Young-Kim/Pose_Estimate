@@ -1,0 +1,5 @@
+{
+    "loss": "MSE+MPJVE+MPJPE",
+
+    "input_delta_translation": true
+}

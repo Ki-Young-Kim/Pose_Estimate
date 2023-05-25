@@ -1,0 +1,14 @@
+*.swp
+*.swo
+.venv/
+__pycache__/
+runs/
+logs/
+temp/
+.ipynb_checkpoints/
+
+config.json
+body_datas/
+checkpoints/
+checkpoints_all/
+analyses/

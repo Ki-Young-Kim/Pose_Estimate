@@ -1,0 +1,5 @@
+{
+    "loss": "RMATNORM+MPJVE+MPJPE",
+
+    "input_delta_translation": true
+}

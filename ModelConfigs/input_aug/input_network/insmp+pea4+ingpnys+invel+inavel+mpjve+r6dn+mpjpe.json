@@ -1,0 +1,16 @@
+{
+    "loss": "R6DNORM+MPJVE+MPJPE",
+    "input_velocities": true,
+    "input_angular_velocities": true,
+    "input_global_joint_positions": true,
+    "normalise_global_joint_positions": true,
+    "normalise_global_joint_positions_y": true,
+    "normalise_global_joint_positions_divbystd": true,
+
+    "input_encoder": "simple",
+    "positional_encoding": true,
+    "pe_L_rotations": 4,
+    "pe_L_velocities": 4,
+    "pe_L_angular_velocities": 4,
+    "pe_L_dtransls": 4
+}

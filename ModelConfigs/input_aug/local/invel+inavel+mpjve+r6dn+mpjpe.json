@@ -1,0 +1,5 @@
+{
+    "loss": "R6DNORM+MPJVE+MPJPE",
+    "input_velocities": true,
+    "input_angular_velocities": true
+}

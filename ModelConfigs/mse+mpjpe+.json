@@ -1,0 +1,5 @@
+{
+    "loss": "MSE+MPJPE+RMAT_UNIT+RMAT_ORTHO",
+    "loss_multiplier_RMAT_UNIT": 0.05,
+    "loss_multiplier_RMAT_ORTHO": 0.05
+}
